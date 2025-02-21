@@ -21,7 +21,7 @@ jobs:
         run: |
           npm install
           npm run build
-          echo 'resume.bilalansari.com' > ./dist/CNAME
+          echo 'resume.bilalansari.in' > ./dist/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
