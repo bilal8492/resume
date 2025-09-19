@@ -7,7 +7,7 @@ const resumeData = {
   name: "Bilal Ansari",
   title: "Software Developer",
   summary:
-    "Highly skilled and innovative Software Developer with 3.5+ years of experience in designing and building high-quality mobile and web applications. Proficient in React Native, React, and other latest web technologies, with a strong focus on hybrid mobile app development. Committed to delivering exceptional user experiences and staying up-to-date with industry trends.",
+    "Highly skilled and innovative Software Developer with 4.3+ years of experience in designing and building high-quality mobile and web applications. Proficient in React Native, React, and other latest web technologies, with a strong focus on hybrid mobile app development. Committed to delivering exceptional user experiences and staying up-to-date with industry trends.",
   contact: {
     email: "m.bilal8492@gmail.com",
     website: "https://bilalansari.in",
